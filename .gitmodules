@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aliases2entrez"]
+	path = aliases2entrez
+	url = https://github.com/peyronlab/aliases2entrez
+	shallow = true
+	registered = true
+[submodule "CMapViz"]
+	path = CMapViz
+	url = https://github.com/peyronlab/cmapviz
+	shallow = true
+	registered = true
+[submodule "ScriptMapR"]
+	path = ScriptMapR
+	url = https://github.com/peyronlab/scriptmapr
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "aliases2entrez",
+    "oncran": true
+  },
+  {
+    "package": "CMapViz",
+    "oncran": true
+  },
+  {
+    "package": "ScriptMapR",
+    "oncran": true
+  }
+]
