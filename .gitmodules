@@ -8,6 +8,3 @@
 [submodule "ScriptMapR"]
 	path = ScriptMapR
 	url = https://github.com/peyronlab/scriptmapr
-[submodule "aliases2entrez"]
-	path = aliases2entrez
-	url = https://github.com/peyronlab/aliases2entrez
